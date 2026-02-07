@@ -34,9 +34,9 @@ Step by step guide to becoming a JavaScript developer
   - [Asignaciones con operadores](src/concepts/controlEstructure/asign-operators.md.md)
   - [Operador condicional ternario](src/concepts/controlEstructure/ope-cond-ternario.md)
   - [Otros usos del operador ternario](src/concepts/controlEstructure/otro-terciario.md)
-  - [Switch](src/concepts/controlEstructure/
-  - [While y Do While](src/concepts/controlEstructure/
-  - [For - For in - For of](src/concepts/controlEstructure/
+  - [Switch](src/concepts/controlEstructure/switch.md)
+  - [While y Do While](src/concepts/controlEstructure/while-do-while.md)
+  - [For - For in - For of](src/concepts/controlEstructure/for-in-of.md)
 
 
 
