@@ -33,7 +33,7 @@ Step by step guide to becoming a JavaScript developer
   - [Lógica booleana](src/concepts/controlEstructure/booleano.md)
   - [Asignaciones con operadores](src/concepts/controlEstructure/asign-operators.md.md)
   - [Operador condicional ternario](src/concepts/controlEstructure/ope-cond-ternario.md)
-  - [Otros usos del operador ternario](src/concepts/controlEstructure/otro-terciario.md.md)
+  - [Otros usos del operador ternario](src/concepts/controlEstructure/otro-terciario.md)
   - [Switch](src/concepts/controlEstructure/
   - [While y Do While](src/concepts/controlEstructure/
   - [For - For in - For of](src/concepts/controlEstructure/
