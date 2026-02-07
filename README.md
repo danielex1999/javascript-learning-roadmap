@@ -39,6 +39,6 @@ Step by step guide to becoming a JavaScript developer
 
 
 
-  <div align="center">
+<div align="center">
 <img src="src/img/207001107 Dance.gif">
 </div>
