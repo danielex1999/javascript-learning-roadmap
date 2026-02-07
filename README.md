@@ -31,7 +31,9 @@ Step by step guide to becoming a JavaScript developer
   - [Valor, referencia y romper la referencia](src/concepts/controlEstructure/valref.md)
   - [If y Else](src/concepts/controlEstructure/ifelse.md)
   - [Lógica booleana](src/concepts/controlEstructure/booleano.md)
-  - [Operador condicional ternario](src/concepts/controlEstructure/
+  - [Asignaciones con operadores](src/concepts/controlEstructure/asign-operators.md.md)
+  - [Operador condicional ternario](src/concepts/controlEstructure/ope-cond-ternario.md)
+  - [Otros usos del operador ternario](src/concepts/controlEstructure/otro-terciario.md.md)
   - [Switch](src/concepts/controlEstructure/
   - [While y Do While](src/concepts/controlEstructure/
   - [For - For in - For of](src/concepts/controlEstructure/
