@@ -43,6 +43,18 @@ Step by step guide to becoming a JavaScript developer
   - [Code Minify](src/concepts/patron-opti/code-minify.md)
 
 
+- Clases en JavaScript y ESNext private properties
+  - [Problemática y necesidad de clases](src/concepts/clases/problematica.md)
+  - [Clases básicas en JavaScript](src/concepts/clases/clases.md)
+  - [Métodos en las clases](src/concepts/clases/metodos.md)
+  - [Sets y Gets](src/concepts/clases/set-get.md)
+  - [Propiedades, gets y métodos estáticos](src/concepts/
+  - [Extends - Clases con SubClases](src/concepts/
+  - [Propiedades privadas](src/concepts/
+  - [Singleton en JavaScript](src/concepts/
+  - [Multiples constructores](src/concepts/
+
+
 <div align="center">
 <img src="src/img/207001107 Dance.gif">
 </div>
