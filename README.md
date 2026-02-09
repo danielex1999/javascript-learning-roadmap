@@ -38,7 +38,9 @@ Step by step guide to becoming a JavaScript developer
   - [While y Do While](src/concepts/controlEstructure/while-do-while.md)
   - [For - For in - For of](src/concepts/controlEstructure/for-in-of.md)
 
-
+- Patrón módulo y optimizaciones
+  - [Patrón módulo](src/concepts/patron-opti/patron-modulo.md)
+  - [Code Minify](src/concepts/patron-opti/code-minify.md)
 
 
 <div align="center">
