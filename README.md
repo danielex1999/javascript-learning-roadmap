@@ -55,6 +55,17 @@ Step by step guide to becoming a JavaScript developer
   - [Multiples constructores](src/concepts/clases/constructores-multiples.md)
 
 
+- Módulos y Vite
+  - [Bundlers y Herramientas](src/concepts/modulos-vite/bundlers-herramientas.md)
+  - [Clases básicas en JavaScript](src/concepts/clases/clases.md)
+  - [Métodos en las clases](src/concepts/clases/metodos.md)
+  - [Sets y Gets](src/concepts/clases/set-get.md)
+  - [Propiedades, gets y métodos estáticos](src/concepts/clases/propiedades.md)
+  - [Extends - Clases con SubClases](src/concepts/clases/subclases.md)
+  - [Propiedades privadas](src/concepts/clases/privadas.md)
+  - [Singleton en JavaScript](src/concepts/clases/singleton.md)
+  - [Multiples constructores](src/concepts/clases/constructores-multiples.md)
+
 <div align="center">
 <img src="src/img/207001107 Dance.gif">
 </div>
