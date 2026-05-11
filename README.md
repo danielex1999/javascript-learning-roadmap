@@ -57,9 +57,10 @@ Step by step guide to becoming a JavaScript developer
 
 - Módulos y Vite
   - [Bundlers y Herramientas](src/concepts/modulos-vite/bundlers-herramientas.md)
-  - [Clases básicas en JavaScript](src/concepts/clases/clases.md)
-  - [Métodos en las clases](src/concepts/clases/metodos.md)
-  - [Sets y Gets](src/concepts/clases/set-get.md)
+  - [Inicio de proyecto - Vite - Node](src/concepts/modulos-vite/inicio-proyecto.md)
+  - [Ejecución y explicación del proyecto](src/concepts/modulos-vite/ejecutar-proyecto.md)
+  - [Build y Despliegue en la nube](src/concepts/modulos-vite/build-despliegue.md)
+  - [Refactorización de código](src/concepts/modulos-vite/refactorizacion.md)
   - [Propiedades, gets y métodos estáticos](src/concepts/clases/propiedades.md)
   - [Extends - Clases con SubClases](src/concepts/clases/subclases.md)
   - [Propiedades privadas](src/concepts/clases/privadas.md)
