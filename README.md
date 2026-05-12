@@ -61,11 +61,7 @@ Step by step guide to becoming a JavaScript developer
   - [Ejecución y explicación del proyecto](src/concepts/modulos-vite/ejecutar-proyecto.md)
   - [Build y Despliegue en la nube](src/concepts/modulos-vite/build-despliegue.md)
   - [Refactorización de código](src/concepts/modulos-vite/refactorizacion.md)
-  - [Propiedades, gets y métodos estáticos](src/concepts/clases/propiedades.md)
-  - [Extends - Clases con SubClases](src/concepts/clases/subclases.md)
-  - [Propiedades privadas](src/concepts/clases/privadas.md)
-  - [Singleton en JavaScript](src/concepts/clases/singleton.md)
-  - [Multiples constructores](src/concepts/clases/constructores-multiples.md)
+
 
 <div align="center">
 <img src="src/img/207001107 Dance.gif">
